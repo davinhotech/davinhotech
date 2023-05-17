@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 sou estudante de front end<br>👯aluno alura<br>🤝logica de programação on<br>🌱 a procura de vaga para desenvolvedor júnior <br>
+🔭 estudante de programção<br>👯front end<br>🤝em busca do primerio emprego como dev <br>
 
 
 ## 🌐 Socials:
