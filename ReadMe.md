@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 estudante de programção<br>👯front end<br>🤝em busca do primerio emprego como dev <br>
+🔭 Análista de sistemas<br>👯front end<br>🤝em busca do primerio emprego como dev <br>
 
 
 ## 🌐 Socials:
